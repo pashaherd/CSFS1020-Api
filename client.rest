@@ -1,0 +1,9 @@
+GET http://localhost:5008/students/enrollment/404
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY0M2Q3ZmQ0LWRiZTgtNDhmNi1hNWVlLWExZDk4ZDg0NWM0ZCIsImlhdCI6MTY5NzI5NDg4N30.th1A7PSIqAWZA99fT2cQCh0mnfuE9RAw_zsTfHfkkSU
+
+
+
+###
+
+PAtch http://localhost:5008/elevate/user
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjY0M2Q3ZmQ0LWRiZTgtNDhmNi1hNWVlLWExZDk4ZDg0NWM0ZCIsImlhdCI6MTY5NzI5NDg4N30.th1A7PSIqAWZA99fT2cQCh0mnfuE9RAw_zsTfHfkkSU
